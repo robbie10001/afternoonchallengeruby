@@ -1,0 +1,4 @@
+class Toys < ApplicationRecord
+
+
+end 
